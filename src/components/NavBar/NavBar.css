@@ -1,0 +1,15 @@
+header {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #d52b1e;
+    color: #f8f9fa;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+}
