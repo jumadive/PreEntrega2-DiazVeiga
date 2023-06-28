@@ -1,0 +1,15 @@
+.cardProd {
+    background-color: whitesmoke;
+    border-radius: 5px;
+    width: 20rem;
+    padding: 2rem;
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgProd {
+    width: 100px;
+    object-fit: contain;
+}
