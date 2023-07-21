@@ -1,0 +1,17 @@
+h2 {
+  font-size: 2rem;
+  text-align: center;
+  margin: 1rem;
+}
+
+a {
+  display: block;
+  text-align: center;
+}
+
+.cartCont {
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
